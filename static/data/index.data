@@ -1,0 +1,48 @@
+[
+    {
+        "id":"1",
+        "title":"湄公河行动",
+        "score":"9.1",
+        "img":"/static/image/meigonghe.jpg",
+        "dim":"3D",
+        "imax":"IMAX",
+        "eng":"Operation Mekong",
+        "act":"动作 警匪 犯罪",
+        "tim":"2016-09-30",
+        "btn":"购票"
+    },
+    {
+        "id":"2",
+        "title":"从你的全世界路过",
+        "score":"8.8",
+        "img":"/static/image/quanshijie.jpg",
+         "dim":"2D",
+        "eng":"Operation Mekong",
+        "act":"喜剧 爱情 剧情",
+        "tim":"2016-09-30",
+        "btn":"购票"
+    },
+    {
+        "id":"3",
+        "title":"西游2伏妖篇",
+        "score":"9.0",
+        "img":"/static/image/xiyou2.jpg",
+        "dim":"3D",
+        "eng":"Operation Mekong",
+        "act":"魔幻 动作 喜剧",
+        "tim":"2017-01-28",
+        "btn":"预售"
+    },
+    {
+        "id":"4",
+        "title":"极限特工3",
+        "score":"9.3",
+        "img":"/static/image/jixiantegong.jpg",
+        "dim":"3D",
+        "imax":"IMAX",
+        "eng":"Operation Mekong",
+        "act":"动作 冒险 惊悚",
+        "tim":"2017-01-20",
+        "btn":"预售"
+    }
+]

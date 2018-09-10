@@ -1,0 +1,6 @@
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0; list-style:none;font-family: "微软雅黑"; -webkit-appearance: none;}
+a{color:#2b2b2b; text-decoration:none}
+body{
+	font-size:24px;
+}
+img { border:0px;}
